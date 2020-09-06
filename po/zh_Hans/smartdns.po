@@ -303,3 +303,6 @@ msgstr "捐助smartdns项目"
 
 msgid "Donate"
 msgstr "捐助"
+
+msgid "Collecting data ..."
+msgstr "数据收集中..."
